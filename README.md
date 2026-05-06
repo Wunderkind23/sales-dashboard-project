@@ -49,8 +49,8 @@ ORDER BY total_revenue DESC;
 ---
 
 ## 📊 Live Dashboard
-> Link will be added once Google Sheets dashboard is complete
-
+> [📊 Click here to view Live Dashboard]
+(https://sterlingbankng-my.sharepoint.com/:x:/r/personal/john_anukua_sterling_ng/Documents/Sales%20Performance%20Dashboard.xlsx?d=wc4ca70b120464b6f9ba5fd9f17d3b5ae&csf=1&web=1&e=sTR7Md)
 ---
 
 *This project was built as part of a BI portfolio to demonstrate 
