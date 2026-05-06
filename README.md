@@ -51,21 +51,21 @@ ORDER BY total_revenue DESC;
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/dashboard-overview.png.png)
 
 ### SQL Exercises
-![SQL Table](images/sql-table-created.png)
-![SQL Select All](images/sql-select-all.png)
+![SQL Table](images/sql-table-created.png.png)
+![SQL Select All](images/sql-select-all.png.png)
 ![SQL Select Columns](images/sql-select-columns.png)
-![SQL Where Lagos](images/sql-where-lagos.png)
-![SQL Revenue Filter](images/sql-where-revenue-filter.png)
-![SQL Sum Revenue](images/sql-sum-total-revenue.png)
-![SQL Group By Region](images/sql-groupby-region-revenue.png)
-![SQL Order By Product](images/sql-orderby-product-revenue.png)
-![SQL Count Orders](images/sql-count-orders-region.png)
-![SQL Average Revenue](images/sql-avg-revenue-product.png)
-![SQL Top 3 Products](images/sql-limit-top3-products.png)
-![SQL Full Summary](images/sql-full-summary.png)
+![SQL Where Lagos](images/sql-where-lagos.png.png)
+![SQL Revenue Filter](images/sql-where-revenue-filter.png.png)
+![SQL Sum Revenue](images/sql-sum-total-revenue.png.png)
+![SQL Group By Region](images/sql-groupby-region-revenue.png.png)
+![SQL Order By Product](images/sql-orderby-product-revenue.png.png)
+![SQL Count Orders](images/sql-count-orders-region.png.png)
+![SQL Average Revenue](images/sql-avg-revenue-product.png.png)
+![SQL Top 3 Products](images/sql-limit-top3-products.png.png)
+![SQL Full Summary](images/sql-full-summary.png.png)
 
 ## 📊 Live Dashboard
 > [📊 Click here to view Live Dashboard]
