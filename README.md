@@ -48,6 +48,25 @@ ORDER BY total_revenue DESC;
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Overview
+![Dashboard](images/dashboard-overview.png)
+
+### SQL Exercises
+![SQL Table](images/sql-table-created.png)
+![SQL Select All](images/sql-select-all.png)
+![SQL Select Columns](images/sql-select-columns.png)
+![SQL Where Lagos](images/sql-where-lagos.png)
+![SQL Revenue Filter](images/sql-where-revenue-filter.png)
+![SQL Sum Revenue](images/sql-sum-total-revenue.png)
+![SQL Group By Region](images/sql-groupby-region-revenue.png)
+![SQL Order By Product](images/sql-orderby-product-revenue.png)
+![SQL Count Orders](images/sql-count-orders-region.png)
+![SQL Average Revenue](images/sql-avg-revenue-product.png)
+![SQL Top 3 Products](images/sql-limit-top3-products.png)
+![SQL Full Summary](images/sql-full-summary.png)
+
 ## 📊 Live Dashboard
 > [📊 Click here to view Live Dashboard]
 (https://sterlingbankng-my.sharepoint.com/:x:/r/personal/john_anukua_sterling_ng/Documents/Sales%20Performance%20Dashboard.xlsx?d=wc4ca70b120464b6f9ba5fd9f17d3b5ae&csf=1&web=1&e=sTR7Md)
