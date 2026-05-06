@@ -51,21 +51,21 @@ ORDER BY total_revenue DESC;
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](images/dashboard-overview.png.png)
+![Dashboard](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/dashboard-overview.png.png)
 
 ### SQL Exercises
-![SQL Table](images/sql-table-created.png.png)
-![SQL Select All](images/sql-select-all.png.png)
-![SQL Select Columns](images/sql-select-columns.png)
-![SQL Where Lagos](images/sql-where-lagos.png.png)
-![SQL Revenue Filter](images/sql-where-revenue-filter.png.png)
-![SQL Sum Revenue](images/sql-sum-total-revenue.png.png)
-![SQL Group By Region](images/sql-groupby-region-revenue.png.png)
-![SQL Order By Product](images/sql-orderby-product-revenue.png.png)
-![SQL Count Orders](images/sql-count-orders-region.png.png)
-![SQL Average Revenue](images/sql-avg-revenue-product.png.png)
-![SQL Top 3 Products](images/sql-limit-top3-products.png.png)
-![SQL Full Summary](images/sql-full-summary.png.png)
+![SQL Table](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-table-created.png.png)
+![SQL Select All](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-select-all.png.png)
+![SQL Select Columns](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-select-columns.png)
+![SQL Where Lagos](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-where-lagos.png.png)
+![SQL Revenue Filter](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-where-revenue-filter.png.png)
+![SQL Sum Revenue](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-sum-total-revenue.png.png)
+![SQL Group By Region](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-groupby-region-revenue.png.png)
+![SQL Order By Product](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-orderby-product-revenue.png.png)
+![SQL Count Orders](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-count-orders-region.png.png)
+![SQL Average Revenue](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-avg-revenue-product.png.png)
+![SQL Top 3 Products](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-limit-top3-products.png.png)
+![SQL Full Summary](https://raw.githubusercontent.com/Wunderkind23/sales-dashboard-project/main/image/sql-full-summary.png.png)
 
 ## 📊 Live Dashboard
 > [📊 Click here to view Live Dashboard]
